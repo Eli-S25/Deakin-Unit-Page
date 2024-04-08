@@ -1,19 +1,35 @@
+.header {
+  background-color: green;
+  padding: 20px; /* Adjust padding as needed */
+  text-align: center; /* Center align header content */
+}
 
+.logo {
+  width: 100px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+  display: inline-block;
+  vertical-align: middle; /* Align logo vertically */
+  margin-right: 10px; /* Adjust margin as needed */
+}
 
 h1 {
   font-size: 40px;
-  font-family: Arial
+  font-family: Arial;
+  color: white; /* Set text color for h1 */
 }
+
 h2 {
   font-size: 25px;
-  font-family: Arial
+  font-family: Arial;
 }
+
 h3 {
-  font-family: Arial
+  font-family: Arial;
 }
+
 p {
   font-size: 14px;
-  font-family: Arial
+  font-family: Arial;
 }
 
 
